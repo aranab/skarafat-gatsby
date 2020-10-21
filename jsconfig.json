@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonJS",
+    "target": "es6",
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    ".cache",
+    "node_modules",
+    "public",
+    "static"
+  ]
+}
